@@ -54,7 +54,7 @@ public class program {
 					System.out.println("Erro no saque: " + e.getMessage());
 				}
 				catch(RuntimeException e) {
-					System.out.println("Erro não tratado, contate o suporte)");
+					System.out.println("Erro não tratado, contate o suporte");
 				}
 				break;
 			}
